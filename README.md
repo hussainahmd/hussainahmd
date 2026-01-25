@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm a Computer Science student and a Web Developer with a keen interest in Artificial Intelligence (AI) and Machine Learning (ML). I enjoy exploring intelligent systems, building scalable applications, and solving complex problems with technology.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainahmd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussainahmad4658@gmail.com) 
 
